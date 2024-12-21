@@ -1,4 +1,4 @@
-# Summary of Lectures on Monte Carlo Simulations using ROOT Framework
+# Summary of Lectures on Monte Carlo Simulations
 
 ## Lec-01 (02-12-2024): **Random Number Generation and Distributions**
 - **Objective**: Learn how to generate random numbers from different distributions and visualize them using ROOT.
