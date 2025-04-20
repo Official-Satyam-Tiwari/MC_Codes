@@ -1,1 +1,0 @@
-MC => Monte Carlo is a statistical method that uses random sampling to solve problems that may be deterministic in principle. It relies on repeated random experiments to obtain numerical results, often used for simulations or estimating probabilities.
