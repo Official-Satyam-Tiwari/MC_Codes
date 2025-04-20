@@ -43,8 +43,8 @@ To run the codes, you need the following:
 Each program is standalone and can be compiled and executed independently. Example command:
 
 ```bash
-g++ -o simulation simulation.cpp `root-config --cflags --libs`
-./simulation
+root -l program.cpp
+[1]: function()
 ```
 
 Output files (e.g., histograms, plots) are generated as ROOT canvases or saved as PNG images (e.g., `efficiency_vs_ethresh_2gamma.png`). Refer to the manual for expected outputs and figure descriptions.
