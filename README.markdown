@@ -1,4 +1,4 @@
-# Monte Carlo Simulations for J-PET Detectors
+# Monte Carlo Simulations
 
 ## Overview
 
